@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "wiro"
+    }
+  },
+  "defaultProject": "wiro",
+  "cli": {
+    "analytics": "aa0526d2-29ea-4e7b-8f7e-997573e01acf"
+  }
 }
